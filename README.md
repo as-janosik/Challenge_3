@@ -8,7 +8,7 @@ This generated password will display for the user to copy and use where needed.
 
 
 Current version of site can be found here:
-https://as-janosik.github.io/Challenge_Portfolio/
+https://as-janosik.github.io/Challenge_3/
 
 
 ## Getting Started
