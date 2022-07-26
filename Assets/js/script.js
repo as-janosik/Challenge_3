@@ -8,8 +8,8 @@ var concatArr = [];
 var passwordGenerated = "";
 var numOfChar = 0;
 
-console.log(specialChar[1]);
-console.log(specialChar[23]);
+//console.log(specialChar[1]);//testing to make sure escape is working correctly on char. 
+//console.log(specialChar[23]);
 
 
 // Write password to the #password input
@@ -34,7 +34,7 @@ function generatePassword() {
 
   //Asking if they want to use numbers
   var isNumbers = prompt("Do you want to use numbers? (Y/N)");
-  console.log(isNumbers);
+  //console.log(isNumbers);
 
   if (isNumbers.toUpperCase() === "Y") {
 
